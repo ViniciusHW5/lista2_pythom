@@ -35,7 +35,7 @@ nome = "Vinicius @ haskel Wilbert"
 print(nome.split('@'),"\n")
 
 #COLOCAR TODAS AS LETRAS INICIAIS EM maiuscula.
-nome = "Vinicius Haskel Wilber"
+nome = "Vinicius Haskel Wilbert"
 print(nome.title(),"\n")
 
 #RETIRA OS CARACTERES INDEJADOS, COMO POR EXEMPLO espaços QUE NAO AGRAGAR VALOR.
