@@ -6,4 +6,4 @@ print(aux)
 
 #['tv','celular','tablet','teclado','geladeira','forno']
 #['tv','celular','teclado','geladeira','forno']
-#remove tablet
+#tablet
