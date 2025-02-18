@@ -6,5 +6,7 @@ for pessoa in pessoas_presentes:
         print ('{} está presente .'.format(chamada))
         break
     else:
-        print('só um print para mostrar que o for passou por essas pessoa:'+str(pessoa))
+        print('só um print para mostrar que o for passou por essas pessoa:'+str(pessoa))#continue
+
+    #print
     
